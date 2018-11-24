@@ -1,5 +1,4 @@
 # Animal-Identification
-Classify Different types of animal.
 Having accurate, detailed, and up-to-date information about the location and behavior of
 animals in the wild would revolutionize our ability to study and conserve ecosystems.
 Implementing Machine Learning using python for image processing can become an
